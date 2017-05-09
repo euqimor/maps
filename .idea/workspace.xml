@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d680d7c-f515-48a7-b34f-7ce4cc85db85" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/maps/templates/home.html" afterPath="$PROJECT_DIR$/maps/templates/home.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -498,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494291526194</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Changed html title">
+      <created>1494322871409</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1494322871409</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -535,7 +541,8 @@
     <MESSAGE value="Change to ALLOWED_HOSTS" />
     <MESSAGE value="Change to json file path in views" />
     <MESSAGE value="Addedd 4k entries to data.json, hooked it to the map in json_view" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addedd 4k entries to data.json, hooked it to the map in json_view" />
+    <MESSAGE value="Changed html title" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed html title" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
